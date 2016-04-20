@@ -12,7 +12,7 @@ import Adafruit_ADXL345
 accel = Adafruit_ADXL345.ADXL345()
 
 # Alternatively you can specify the device address and I2C bus with parameters:
-#accel = Adafruit_ADXL345.ADXL345(address=0x54, bus=2)
+#accel = Adafruit_ADXL345.ADXL345(address=0x54, busnum=2)
 
 # You can optionally change the range to one of:
 #  - ADXL345_RANGE_2_G   = +/-2G (default)
