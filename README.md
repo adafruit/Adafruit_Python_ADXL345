@@ -1,4 +1,12 @@
-# Adafruit Python ADXL345
+# DEPRECATED LIBRARY. Adafruit Python ADXL345
+
+This library has been deprecated! We are leaving this up for historical and research purposes but archiving the repository.
+
+We are now only supporting the use of our CircuitPython libraries for use with Python.
+
+Check out the [Adafruit CircuitPython ADXL34x library](https://github.com/adafruit/Adafruit_CircuitPython_ADXL34x).
+
+## Adafruit Python ADXL345
 Python code to use the ADXL345 triple-axis accelerometer over I2C with a Raspberry Pi or BeagleBone Black.
 
 ## Installation
